@@ -123,3 +123,4 @@ require (
 )
 
 replace github.com/tendermint/tendermint => github.com/bnb-chain/tendermint v0.31.14
+replace github.com/ethereum/go-ethereum => github.com/binance-chain/bsc v1.1.19
